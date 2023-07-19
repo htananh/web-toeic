@@ -1,0 +1,3 @@
+[submodule "main/webapp/main/webapp/admin/toeic"]
+	path = main/webapp/main/webapp/admin/toeic
+	url = git@github.com:anhdepzai15/toeic.git
